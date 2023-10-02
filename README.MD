@@ -15,6 +15,11 @@
 * **Решение**
   * [solution_jupiter](task/4_Logres_affai/4_Logres_affai.ipynb)
 
+## **5 Проблема качества данных**  [README.MD](/task/5%20Problem_of_data_quality/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/5%20Problem_of_data_quality/lesson_5.ipynb)
+
 ## Вопросы на проработку
 
 ### Визуальный анализ данных
