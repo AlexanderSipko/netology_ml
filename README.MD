@@ -20,6 +20,11 @@
 * **Решение**
   * [solution_jupiter](task/5%20Problem_of_data_quality/lesson_5.ipynb)
 
+## **7 Работа с переменными**  [README.MD](/task/7%20features/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/7%20features/7%20features.ipynb)
+
 ## Вопросы на проработку
 
 ### Визуальный анализ данных
