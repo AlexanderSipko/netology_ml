@@ -25,8 +25,8 @@
 * **Решение**
   * [solution_jupiter](task/7%20features/7%20features.ipynb)
 
-## Вопросы на проработку
+## **8 Дерево решений**  [README.MD](/task/8%20decision_trees/README.MD)
 
-### Визуальный анализ данных
+* **Решение**
+  * [solution_jupiter](task/8%20decision_trees/8%20decision_trees.ipynb)
 
-* проработать инструменты анализа `sns` & `plt`
