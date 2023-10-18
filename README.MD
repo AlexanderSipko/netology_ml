@@ -30,3 +30,7 @@
 * **Решение**
   * [solution_jupiter](task/8%20decision_trees/8%20decision_trees.ipynb)
 
+## **9 Ансамблирование**  [README.MD](/task/9%20ensamble/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/9%20ensamble/9%20ensamble.ipynb)
