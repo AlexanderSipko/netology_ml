@@ -34,3 +34,8 @@
 
 * **Решение**
   * [solution_jupiter](task/9%20ensamble/9%20ensamble.ipynb)
+
+## **10 Поиск выбросов и генерация новых признаков**  [README.MD](/task/10%20empty/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/10%20empty/10.ipynb)
