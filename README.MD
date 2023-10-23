@@ -39,3 +39,8 @@
 
 * **Решение**
   * [solution_jupiter](task/10%20empty/10.ipynb)
+
+## **11 Feature Selection**  [README.MD](/task/11%20FutureSelection/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/11%20FutureSelection/11.ipynb)
