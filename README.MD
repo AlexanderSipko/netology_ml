@@ -44,3 +44,9 @@
 
 * **Решение**
   * [solution_jupiter](task/11%20FutureSelection/11.ipynb)
+
+
+## **13 Feature Selection**  [README.MD](/task/13%20Claster/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/13%20Claster/13%20claster.ipynb)
