@@ -1,3 +1,5 @@
 .venv/
 lection/
 src/
+*.h5
+logs/
