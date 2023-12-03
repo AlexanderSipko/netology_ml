@@ -54,3 +54,13 @@
 
 * **Решение**
   * [solution_jupiter](task/14%20UpdateModel/14%20UpdateModel.ipynb)
+
+## **15 CNN**
+
+* **Решение**
+  * [solution_jupiter](task/15_convolution_neural_network_CNN/15_convolution_neural_network_CNN.ipynb)
+
+## **16 RNN**
+
+* **Решение**
+  * [solution_jupiter](task/16_recurent_neural_network_RNN/16_recurent_RNN.ipynb)
