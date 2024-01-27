@@ -64,3 +64,8 @@
 
 * **Решение**
   * [solution_jupiter](task/17_recurent_neural_network_RNN/17_recurent_RNN.ipynb)
+
+## **19 Recommend**
+
+* **Решение**
+  * [solution_jupiter](task/19_recommend_predict/19_recommend_predict.ipynb)
