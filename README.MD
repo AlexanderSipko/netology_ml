@@ -55,22 +55,22 @@
 * **Решение**
   * [solution_jupiter](task/14%20UpdateModel/14%20UpdateModel.ipynb)
 
-## **16 CNN**
+## **16 CNN**   [README.MD](/task/16_convolution_neural_network_CNN/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/16_convolution_neural_network_CNN/16_convolution_neural_network_CNN.ipynb)
 
-## **17 RNN**
+## **17 RNN**   [README.MD](/task/17_recurent_neural_network_RNN/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/17_recurent_neural_network_RNN/17_recurent_RNN.ipynb)
 
-## **19 Recommend**
+## **19 Recommend**  [README.MD](/task/19_recommend_predict/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/19_recommend_predict/19_recommend_predict.ipynb)
 
-## **20 Collaborate Filter**
+## **20 Collaborate Filter** [README.MD](/task/20_colaborare_filter/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/20_colaborare_filter/20_colaborate_filter.ipynb)
