@@ -69,3 +69,8 @@
 
 * **Решение**
   * [solution_jupiter](task/19_recommend_predict/19_recommend_predict.ipynb)
+
+## **20 Collaborate Filter**
+
+* **Решение**
+  * [solution_jupiter](task/19_recommend_predict/19_recommend_predict.ipynb)
