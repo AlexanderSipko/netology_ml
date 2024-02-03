@@ -16,4 +16,4 @@
   4. В домашнем задании на датасет 1М может не хватить `RAM`. Можно сделать на `100K`. Качество `RMSE` предлагаю считать на основе `Cross-validation` (5 фолдов), а не на отложенном датасете.
 
 * **Решение**
-  * [solution_jupiter](/task/20_colaborate_filter.ipynb)
+  * [solution_jupiter](./20_colaborate_filter.ipynb)
