@@ -35,42 +35,47 @@
 * **Решение**
   * [solution_jupiter](task/9%20ensamble/9%20ensamble.ipynb)
 
-## **10 Поиск выбросов и генерация новых признаков**  [README.MD](/task/10%20empty/README.MD)
+## **10 Поиск выбросов и генерация новых признаков**  [README.MD](task/10%20empty/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/10%20empty/10.ipynb)
 
-## **11 Feature Selection**  [README.MD](/task/11%20FutureSelection/README.MD)
+## **11 Feature Selection**  [README.MD](task/11%20FutureSelection/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/11%20FutureSelection/11.ipynb)
 
-## **13 Feature Selection**  [README.MD](/task/13%20Claster/README.MD)
+## **13 Feature Selection**  [README.MD](task/13%20Claster/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/13%20Claster/13%20claster.ipynb)
 
-## **14 Update Model**  [README.MD](/task/14%20UpdateModel/README.MD)
+## **14 Update Model**  [README.MD](task/14%20UpdateModel/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/14%20UpdateModel/14%20UpdateModel.ipynb)
 
-## **16 CNN**   [README.MD](/task/16_convolution_neural_network_CNN/README.MD)
+## **16 CNN**   [README.MD](task/16_convolution_neural_network_CNN/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/16_convolution_neural_network_CNN/16_convolution_neural_network_CNN.ipynb)
 
-## **17 RNN**   [README.MD](/task/17_recurent_neural_network_RNN/README.MD)
+## **17 RNN**   [README.MD](task/17_recurent_neural_network_RNN/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/17_recurent_neural_network_RNN/17_recurent_RNN.ipynb)
 
-## **19 Recommend**  [README.MD](/task/19_recommend_predict/README.MD)
+## **19 Recommend**  [README.MD](task/19_recommend_predict/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/19_recommend_predict/19_recommend_predict.ipynb)
 
-## **20 Collaborate Filter** [README.MD](/task/20_colaborare_filter/README.MD)
+## **20 Collaborate Filter** [README.MD](task/20_colaborare_filter/README.MD)
 
 * **Решение**
   * [solution_jupiter](task/20_colaborare_filter/20_colaborate_filter.ipynb)
+
+## **21 Hybrid recommend** [README.MD](task/21_hybrid_recommend/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/21_hybrid_recommend/21_hybrid_recommend.ipynb)
