@@ -79,3 +79,8 @@
 
 * **Решение**
   * [solution_jupiter](task/21_hybrid_recommend/21_hybrid_recommend.ipynb)
+
+## **22 Digit_Number** [README.MD](task/22_compyter_vision/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/22_compyter_vision/002-digit.ipynb)
