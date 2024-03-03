@@ -84,3 +84,8 @@
 
 * **Решение**
   * [solution_jupiter](task/22_compyter_vision/002-digit.ipynb)
+  
+## **23 Digit_Number** [README.MD](task/23_compyter_vision_dog_cat/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/23_compyter_vision_dog_cat/006-dogs-vs-cats.ipynb)
