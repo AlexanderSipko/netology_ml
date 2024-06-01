@@ -89,3 +89,8 @@
 
 * **Решение**
   * [solution_jupiter](task/23_compyter_vision_dog_cat/006-dogs-vs-cats.ipynb)
+
+## **25 Time_series** [README.MD](task/25_time_series/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/25_time_series/time_series.ipynb)
