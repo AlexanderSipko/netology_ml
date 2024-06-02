@@ -94,3 +94,8 @@
 
 * **Решение**
   * [solution_jupiter](task/25_time_series/time_series.ipynb)
+
+## **26 Time_series_analyze** [README.MD](task/26_time_series_analyze/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/26_time_series_analyze/time_series.ipynb)
