@@ -104,3 +104,8 @@
 
 * **Решение**
   * [solution_jupiter](task/27_time_series_arma/time_series.ipynb)
+
+## **28 Final_task** [README.MD](task/28_final_task/README.MD)
+
+* **Решение**
+  * [solution_jupiter](task/28_final_task/retail.ipynb)
